@@ -95,7 +95,7 @@
     padding: 12px 16px;
     resize: none;
     &:focus {
-        border: 1px solid var(--accent-color);
+        border: 1px solid $accent-color;
         outline: transparent;
     }
 }
